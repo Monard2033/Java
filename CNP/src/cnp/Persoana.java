@@ -34,7 +34,6 @@ public class Persoana {
 		String an=CNP.substring(1, 3);
 		String luna=CNP.substring(3, 5);
 		String zi=CNP.substring(5, 7);
-		
 		int categ = Integer.parseInt(k);
 		int AN=Integer.parseInt(an);
 		int LUNA=Integer.parseInt(luna);
