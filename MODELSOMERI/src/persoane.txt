@@ -1,0 +1,5 @@
+1;Vlad;22;Superioare;3750;6
+1;Gabriela;21;Superioare;3750;9
+2;Andrei;19;Medii;2022-10-10
+2;Iulian;28;Superioare;2022-05-11
+2;Iulian;57;Medii;2007-05-11
